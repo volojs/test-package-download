@@ -1,6 +1,6 @@
 {
     "name": "test-package-download",
     "volo": {
-        "archive": "https://github.com/downloads/volojs/test-package-download/release-{version}.zip"
+        "archive": "https://github.com/downloads/volojs/test-package-download/test-package-download-{version}.zip"
     }
 }
